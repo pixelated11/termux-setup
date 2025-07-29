@@ -6,7 +6,7 @@ chmod +x <PATH_TO_THE_SETUP_FILE>
 ```
 Then, move it to ~/ directory (optional) by doing this:
 ```bash
-mv <PATH_TO_DOWNLOADED_FILE> ./termux-setup.sh
+mv <PATH_TO_DOWNLOADED_FILE> ~
 ```
 After you did that, type this command and make sure that you __don't rename the file__.
 ```bash
