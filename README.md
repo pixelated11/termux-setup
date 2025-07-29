@@ -16,7 +16,7 @@ Then, wait a few minutes for the setup to finish.
 # What's in it
 
 Inside the bash, there is installation commands such as installing basic packages, and apps(optional).
-Please note that the apps that will be installed in there __must be run with a GUI display.__ e.g., Termux X11 or VNC server. You can choose whether you want to install the apps or not.
+Please note that the apps that is in the optional installation __can only be viewed with a GUI display.__ e.g., Termux X11 or VNC server. You can choose whether you want to install the apps or not.
 # Requirements
 -__A stable internet connection__, slow ones might take more time to install then expected.  
 -__At least 5GB of free disk space__, 2GB for __only__ the packages and 5GB for both the packages and the apps.  
