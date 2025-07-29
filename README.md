@@ -1,6 +1,10 @@
 # Installation
 
 To make the bash file work, you will need to make it executable (to verify that it can run). Below is the commands to do it.
+
+[Latest Release (v1.1)]
+(https://github.com/pixelated11/termux-setup/releases/v1.1/)
+
 ```bash 
 chmod +x <PATH_TO_THE_SETUP_FILE>
 ```
