@@ -1,11 +1,17 @@
 # Installation
 
 To make the bash file work, you will need to make it executable (to verify that it can run). Below is the commands to do it.
-`chmod +x <PATH_TO_THE_SETUP_FILE>`
+```bash 
+chmod +x <PATH_TO_THE_SETUP_FILE>
+```
 Then, move it to ~/ directory (optional) by doing this:
-`mv <PATH_TO_DOWNLOADED_FILE> ./termux-setup.sh`
+```bash
+mv <PATH_TO_DOWNLOADED_FILE> ./termux-setup.sh
+```
 After you did that, type this command and make sure that you __don't rename the file__.
-`./termux-setup.sh`
+```bash
+./termux-setup.sh
+```
 Then, wait a few minutes for the setup to finish.
 # What's in it
 
