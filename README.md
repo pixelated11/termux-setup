@@ -25,4 +25,4 @@ Please note that the apps that is in the optional installation __can only be vie
 -__At least 5GB of free disk space__, 2GB for __only__ the packages and 5GB for both the packages and the apps.  
 -__Latest termux version__, do not download from google play, because it is outdated. Instead, download from <a href="https://f-droid.org/en/packages/com.termux/">F-Droid</a> or <a href="https://github.com/termux/termux-app">Github</a> . I prefer F-Droid because it can be updated automatically.
 # Credits
-Credits to __pixelated11__ (myself) for making this bash script. Support me on making more things like this please! I really need support.
+Credits to __pixelated11__ (myself) for making this bash script. Support me on making more things like this by starring this repo! Thanks if you did!
