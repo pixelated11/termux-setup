@@ -1,6 +1,6 @@
 # Installation
 
-To make the bash file work, you will need to make it executable (to verify that it can run). Below is the commands to do it.
+To make the bash file work, you will need to make it executable (to verify that it can run). Below is the commands to do it.  
 
 <a href="https://github.com/pixelated11/termux-setup/releases/v1.1/">Latest release (v1.1)</a> 
 
